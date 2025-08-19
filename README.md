@@ -1,4 +1,4 @@
- # 👋 Roberto — Blockchain Architect & Developer
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/88eeb93d-3598-4de1-9e2f-d885bff5a03a" /> # 👋 Roberto — Blockchain Architect & Developer
  
 ## 🧭 Former pre‑sales engineer turned Web3 architect · 🔗 building secure blockchain systems
 
@@ -13,51 +13,51 @@ I bridge **business needs and engineering**. After a senior pre-sales/architectu
 
 ## Selected Work
 
-**RFP/Licitation DApp on Polygon** — Next + Solidity  
-Encrypted RFP submissions (Bundlr → Irys), wallet signatures, deployments to Mumbai / Amoy & mainnet, refactor to ethers v6 for compatibility  
-• *Repo:* [Client](https://github.com/RoberVH/pro-pon-nextjs) [Contracts](https://github.com/RoberVH/pro-pon-splited-contracts)
+**RFP/Licitation DApp on Polygon** — Next | Solidity | Hardhat | Bundler (Irys) | MongoDB  
+RFP & Tender Manager on Blockchain. Enable secured process flow encrypt files on Blockchain Irys. Deployments to Mumbai / Amoy & Polygon  
+• *Repo:* [Client](https://github.com/RoberVH/pro-pon-nextjs) [Contract](https://github.com/RoberVH/pro-pon-splited-contracts)
 
-**NFTs for Education (ERC-721/1155)** — donors ↔ students  
-NFTs representing physical art pieces; designed low-friction onboarding for non-crypto users  
-• *Repo:* `[link soon]`
+**Gubbi Pay Exchange Contract** — OpenWeb Frutal Web House ETH Mexico Hakcathon 2024, Solidity | Openzeppelin | Pangolin | Foundry on Avalanche Fuji testnet  Award: Avalanche recognition  
+Contract to automatically trade cryptos for Gubbi treasure balance. Implements Wabax to Joe trades (as initial pair) on Pangolin (Uniswap tpye Dex on Avalanche)  
+• *Repo:* [Contracts]([https://github.com/RoberVH/pro-pon-splited-contracts](https://github.com/RoberVH/basedlatam-gubbiapp/tree/main/gubbi-contract-rwa))  
+• Hackahton sites: * [Project Page](https://devpost.com/software/gubbi-pay?ref_content=my-projects-tab&ref_feature=my_projects)  
 
-**Blockchain for Retail — Executive Course + Demo**  
+**RWA Gubbi Contract (ERC1155)** — Base Latam Hakcathon 2024, Solidity | Openzeppelin on Base Sepolia  Award: Community Mention  
+ERC1155 NFT issuance and asset tokenization, enabling  lending between issuers, enforcement agents, and buyers with asset-backed guarantees.  
+• *Repo:* [Contracts]([https://github.com/RoberVH/pro-pon-splited-contracts](https://github.com/RoberVH/basedlatam-gubbiapp/tree/main/gubbi-contract-rwa))  
+* Hackahton sites: * [Project Page](https://devfolio.co/projects/gubbi-app-542e)  
+
+**NFTs for Education (ERC-721)** — donors ↔ students + Google Sheet  
+NFT minting app for donating digital tokens linked to physical student paintings, delivered via courier, with user-friendly onboarding for non-crypto users.  
+• *Repo:* [Code](https://github.com/RoberVH/la-buena-tierra-nft)  
+
+**Blockchain for Retail — Executive Course + Demo**  Next + Solidity  
 Curriculum covering **architecture**, **technical fundamentals**, and **use-case validation**, plus a micro-dApp where attendees **sign quiz answers with a wallet**  
-• *Repo / Landing:* `[link soon]`
+• *Repo:* [Client](https://github.com/RoberVH/crypto-ts-app) [Code](https://github.com/RoberVH/trivias-contract-solidity) [Course](https://campus.retailing.university/courses/IntroaBlockchain) 
 
-**Retail Tickets on Hyperledger Fabric (Azure)** — Express/React + Fabric  
-Immutable ticket registry for audits; Docker orchestration; Azure & local setup  
-• *Repo:*  [Client & server](https://github.com/RoberVH/eterTicket) 
+**Retail Tickets on Hyperledger Fabric (Azure)** — Express + React + Hyperledger Fabric  
+Immutable ticket registry for audits; IBM BLockchain Nodes / Azure hosting / Local Client  
+• *Repo:*  [Client & server](https://github.com/RoberVH/eterTicket)  
 
-## Hackathons & Recognition
-
-- **ETH México (2024):** RWA financing contract with agents/commissions & scheduled repayment (**Avalanche testnet**) — *Avalanche recognition (~50 USDC)*
-- **LatAm Hackathon:** Uniswap v3 swap module for flexible asset conversion — *Community mention*
+**Health Club** — React Express/React + Fabric  
+Immutable ticket registry for audits; IBM BLockchain Nodes / Azure hosting / Local Client  
+• *Repo:*  On Request 
 
 ## Tech
 
-Solidity · Next/React/TypeScript · wagmi/viem · ethers · Hardhat/Foundry · Polygon (Amoy/Mainnet) · Hyperledger Fabric (Azure) · Docker · Circom (foundational POCs)
+Solidity · Next/React/TypeScript · wagmi/viem · ethers · Hardhat/Foundry · Hyperledger Fabric · Docker · Circom (foundational POCs)
 
 ## What I’m working on now
 
-- Curating repos with **clean READMEs, diagrams, and reproducible scripts**
-- Publishing short write-ups: **ethers v5→v6 migration**, **Mumbai→Amoy**, **Bundlr→Irys lessons**
-- Exploring practical ZK patterns for identity & document workflows
+- Prototyping a demand forecasting & price optimization ML pipeline for retail and wiring smart-contract for supply-chain  
+- Exploring zk proof patterns (Circom) and zkTLS-adjacent ideas for privacy-preserving identity and credential checks in Retail/Legal
+- Building a minimalist HIIT timer PWA (Next.js/TypeScript/Supabase). Built with AI-assisted development and human-in-the-loop review.
+
 
 ## Contact
 
-- **Email:** roberto.vicuna@ejemplo.com  
-- **LinkedIn:** https://linkedin.com/in/roberto-vicuna  
+- **Email:** roberto.vicuna@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/roberto-vicuna
+- **X:** [https://linkedin.com/in/roberto-vicuna](https://x.com/RoberVH)  
 - **Location:** Mexico City (CDMX), Mexico · Remote
-
-> Open to: Blockchain/Web3 Engineer · Full-stack (Next/React/TS) · Solutions Architect · Tech Lead
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  

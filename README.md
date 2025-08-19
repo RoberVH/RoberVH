@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/88eeb93d-3598-4de1-9e2f-d885bff5a03a" /> # 👋 Roberto — Blockchain Architect & Developer
+# 👋 Roberto — Blockchain Architect & Developer
  
 ## 🧭 Former pre‑sales engineer turned Web3 architect · 🔗 building secure blockchain systems
 
@@ -32,7 +32,7 @@ NFT minting app for donating digital tokens linked to physical student paintings
 • *Repo:* [Code](https://github.com/RoberVH/la-buena-tierra-nft)  
 
 **Blockchain for Retail — Executive Course + Demo**  Next + Solidity  
-Curriculum covering **architecture**, **technical fundamentals**, and **use-case validation**, plus a micro-dApp where attendees **sign quiz answers with a wallet**  
+Curriculum covering **architecture**, **technical fundamentals**, and **use-case validation**, plus a dApp where attendees **sign quiz answers with a wallet**  
 • *Repo:* [Client](https://github.com/RoberVH/crypto-ts-app) [Code](https://github.com/RoberVH/trivias-contract-solidity) [Course](https://campus.retailing.university/courses/IntroaBlockchain) 
 
 **Retail Tickets on Hyperledger Fabric (Azure)** — Express + React + Hyperledger Fabric  

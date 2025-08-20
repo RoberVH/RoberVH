@@ -46,7 +46,7 @@ Immutable ticket registry for audits, featuring a Fabric contract deployed to IB
 **Health Club** — 2021 · React | Firebase  
 Web app for managing patient records (vitals, custom catalogs, PDFs, treatment notes).  
 *No HL7/IHE/FHIR — custom data model by request.*  
-• *Repo:* **On request** · [Demo Videos](https://www.youtube.com/playlist?list=PLEC43mUb4h-tjAZrD3BdRTQGWn8liBdhX)
+• *Repo:* **On request** · [Demo Videos](https://vimeo.com/showcase/11841152)
 
 ## Tech
 
@@ -54,9 +54,9 @@ Solidity · Next.js/React/TypeScript · Tailwind · wagmi/viem · ethers · Hard
 
 ## What I’m working on now
 
-- Prototyping a demand-forecasting & price-optimization ML pipeline for retail, wiring **smart-contract checkpoints** for supply-chain events
-- Exploring ZK proof patterns (Circom) and zkTLS-adjacent ideas for privacy-preserving identity and credential checks in Retail/Legal
-- Building a minimalist **HIIT timer** PWA (Next.js/TypeScript/Supabase). Built with AI-assisted development and human-in-the-loop review
+- Prototyping Machine Learning & Smart Contract application on Retail Industry
+- Exploring ZK proof patterns (Circom) and zkTLS-adjacent ideas for privacy-preserving identity and credential checks in Retail/Legal Industries
+- Building a **HIIT timer** PWA (Next.js/TypeScript/Supabase). Built with AI-assisted development and human-in-the-loop review
 
 ## Contact
 

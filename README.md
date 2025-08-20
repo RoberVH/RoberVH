@@ -14,7 +14,7 @@ I bridge **business needs and engineering**. After a senior pre-sales/architectu
 
 **ZKPPROOF-CREDITAPP** — 2025 · React | Circom 
 Demo app that proves an employee’s salary is **above a creditor’s minimum** without revealing the actual amount. **UI scaffolded with Lovable**, then extended and reviewed by me.
-Verifing Contract deployed on **Sepolia (0xAd0fB84F188DF7Bb7A889FFC734739f34bBA2a14)** to validate ZK Proofs
+Verifying Contract deployed on **Sepolia (0xAd0fB84F188DF7Bb7A889FFC734739f34bBA2a14)** to validate ZK Proofs
 • *Repo:*  [Client](https://github.com/RoberVH/zkproof-creditapp) · [server](https://github.com/RoberVH/server-zkproof-creditapp-)
 
 **RFP/Tender dApp on Polygon** — 2022 (extended/migrated in 2023) · Next.js | Solidity | Hardhat | Bundlr → Irys | MongoDB  
@@ -22,7 +22,7 @@ Blockchain-based RFP & Tender manager. Secure process flow with **client-side en
 • *Repo:* [Client](https://github.com/RoberVH/pro-pon-nextjs) · [Contracts](https://github.com/RoberVH/pro-pon-splited-contracts)
 
 **Gubbi Pay — Exchange Contract** — 2024 · OpenWeb Frutal WH ETHMexico Hackathon · Solidity | OpenZeppelin | Pangolin | Foundry on Avalanche Fuji (Award: Avalanche recognition)  
-Smart Contracts to programmatically swap assets (via **Pangolin**, an Uniswap-type DEX on Avalanche) for treasury balancing.  
+Smart Contracts to programmatically swap assets (via **Pangolin**, a Uniswap-type DEX on Avalanche) for treasury balancing.  
 • *Repo:* [Contracts](https://github.com/RoberVH/basedlatam-gubbiapp/tree/main/gubbi-contract-rwa)  
 • *Hackathon:* [Project page](https://devpost.com/software/gubbi-pay?ref_content=my-projects-tab&ref_feature=my_projects)  
 
@@ -32,7 +32,7 @@ ERC-1155 issuance/tokenization to enable lending with asset-backed guarantees in
 • *Hackathon:* [Project page](https://devfolio.co/projects/gubbi-app-542e)
 
 **NFTs for Education (ERC-721)** — 2022 · solidity | Hardhat | React | Google Sheets API  Deployed to Matic (Polygon)
-NFT minting app where donors support students by minting NFTs tied to their physical paintings, registrering physical address to receive them 
+NFT minting app where donors support students by minting NFTs tied to their physical paintings, registering physical address to receive them 
 • *Repo:* [Code](https://github.com/RoberVH/la-buena-tierra-nft)
 
 **Blockchain for Retail — Executive Course + Demo** — 2024 · Next.js | Solidity  

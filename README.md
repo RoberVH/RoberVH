@@ -12,11 +12,10 @@ I bridge **business needs and engineering**. After a senior pre-sales/architectu
 
 ## Selected Work
 
-**ZKPPROOF-CREDITAPP** — 2025 · React | Circom | Poseidon
+**ZKPPROOF-CREDITAPP** — 2025 · React | Circom 
 Demo app that proves an employee’s salary is **above a creditor’s minimum** without revealing the actual amount. **UI scaffolded with Lovable**, then extended and reviewed by me.
-Contracts deployed on **Sepolia**.
-Contracts deployed on **Sepolia**.
-• *Repo:*  [ZKP App](https://github.com/RoberVH/zkproof-creditapp)
+Verifing Contract deployed on **Sepolia (0xAd0fB84F188DF7Bb7A889FFC734739f34bBA2a14)** to validate ZK Proofs
+• *Repo:*  [Client](https://github.com/RoberVH/zkproof-creditapp) · [server](https://github.com/RoberVH/server-zkproof-creditapp-)
 
 **RFP/Tender dApp on Polygon** — 2022 (extended/migrated in 2023) · Next.js | Solidity | Hardhat | Bundlr → Irys | MongoDB  
 Blockchain-based RFP & Tender manager. Secure process flow with **client-side encrypted files** uploaded via **Irys** (ex-Bundlr). Deployments to **Mumbai/Amoy** (testnets) and **Polygon mainnet**.  

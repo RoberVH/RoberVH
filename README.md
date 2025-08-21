@@ -32,7 +32,7 @@ ERC-1155 issuance/tokenization to enable lending with asset-backed guarantees in
 • *Hackathon:* [Project page](https://devfolio.co/projects/gubbi-app-542e)
 
 **NFTs for Education (ERC-721)** — 2022 · solidity | Hardhat | React | Google Sheets API  Deployed to Matic (Polygon)
-NFT minting app where donors support students by minting NFTs tied to their physical paintings, registering physical address to receive them 
+NFT minting app where donors support students by minting NFTs tied to their physical paintings, registering physical address to receive them   
 • *Repo:* [Code](https://github.com/RoberVH/la-buena-tierra-nft)
 
 **Blockchain for Retail — Executive Course + Demo** — 2024 · Next.js | Solidity  

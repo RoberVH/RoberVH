@@ -46,7 +46,7 @@ Immutable ticket registry for audits, featuring a Fabric contract deployed to IB
 **Health Club** — 2021 · React | Firebase  
 Web app for managing patient records (vitals, custom catalogs, PDFs, treatment notes).  
 *No HL7/IHE/FHIR — custom data model by request.*  
-• *Repo:* **On request** · [Demo Videos](https://vimeo.com/showcase/11841152)
+• *Repo:* [Project](https://github.com/RoberVH/club-salud--ops-react) **On request** · [Demo Videos](https://vimeo.com/showcase/11841152)
 
 ## Tech
 
